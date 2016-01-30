@@ -1,6 +1,8 @@
 marduk191's Kodi Repository
 =========================
 
+[![Join the chat at https://gitter.im/marduk191/kodiaddons](https://badges.gitter.im/marduk191/kodiaddons.svg)](https://gitter.im/marduk191/kodiaddons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * Author:	marduk191 (<marduk191@gmail.com>)
 * Created:	January 28, 2016
 * Github:	<https://github.com/marduk191/kodiaddons>
